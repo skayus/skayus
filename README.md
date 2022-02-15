@@ -1,5 +1,12 @@
-![Skayuś's Stats](https://github-readme-stats.vercel.app/api?username=skayus&show_icons=true&theme=midnight-purple&border_radius=30) ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+<p align='left'>
+![Skayuś's Stats](https://github-readme-stats.vercel.app/api?username=skayus&show_icons=true&theme=midnight-purple&border_radius=30)
+</p>
+<p align='right'>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Skayuś)
+</p>
+<p align='center'>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239f4bff&duration=3000&height=73&lines=Python+-+Developer;JavaScript+-+50%25+Learned;Java+-+Learning)](https://git.io/typing-svg)
+</p>
 
 # My Social's
 <p align="center">
