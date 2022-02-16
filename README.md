@@ -12,7 +12,7 @@ const skayus = {
         },
         botDev: {
             discord: ["Python", "JavaScript"],
-            message-apps: ["Python"]
+            messageApps: ["Python"]
         },
         databases: ["MySql", "Sqlite3"],
     },
