@@ -7,7 +7,7 @@ const skayus = {
     askMeAbout: ["back-end", "front-end", "script dev", "bot dev", "discord"],
     technologies: {
         backEnd: {
-            py: ["Flask"]
+            py: ["Flask"],
             js: ["JavaScript"]
         },
         botDev: {
