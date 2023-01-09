@@ -16,7 +16,6 @@ const skayus = {
         },
         databases: ["MySql", "Sqlite3", "MongoDB"],
     },
-    currentFocus: "Learning new languages",
-    funFact: "I am a very perfectionist and I love minimalism"
+    currentFocus: "Next.js"
 };
 ```
