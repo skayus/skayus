@@ -8,7 +8,7 @@ const skayus = {
     technologies: {
         backEnd: {
             py: ["Flask"],
-            js: ["JavaScript"]
+            js: ["JavaScript", "express.js", "Next.js"]
         },
         botDev: {
             discord: ["Python", "JavaScript"],
